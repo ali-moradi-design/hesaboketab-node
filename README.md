@@ -6,7 +6,7 @@
 
 ```
 npm install
-cd cliebt
+cd client
 npm install
 ```
 
